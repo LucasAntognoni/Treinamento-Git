@@ -1,5 +1,4 @@
-from math import pow
-from math import fmod
+from math import pow, sqrt
 
 
 def power(n, m):
@@ -7,8 +6,8 @@ def power(n, m):
 
 
 def root(n):
-    pass
+    return sqrt(n)
 
 
 def mod(n, m):
-    return fmod(x,y)
+    pass
