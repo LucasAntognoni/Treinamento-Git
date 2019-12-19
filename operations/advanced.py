@@ -10,4 +10,4 @@ def root(n):
 
 
 def mod(n, m):
-    return fmod(x,y)
+    return fmod(n, m)
