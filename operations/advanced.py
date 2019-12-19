@@ -14,6 +14,9 @@ def power(n, m):
 
 
 def root(n):
+    """
+    Calcula raíz quadrada
+    """
     return sqrt(n)
 
 
