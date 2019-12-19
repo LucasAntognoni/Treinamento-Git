@@ -1,4 +1,5 @@
 from math import pow
+from math import fmod
 
 
 def power(n, m):
@@ -10,4 +11,4 @@ def root(n):
 
 
 def mod(n, m):
-    pass
+    return fmod(x,y)
