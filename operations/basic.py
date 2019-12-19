@@ -1,5 +1,5 @@
 def add(n, m):
-    pass
+    return n + m
 
 
 def subtract(n, m):
@@ -11,4 +11,4 @@ def multiply(n, m):Unnamed
 
 
 def divide(n, m):
-    pass
+    return n/m
