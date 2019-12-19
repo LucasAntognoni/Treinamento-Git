@@ -7,7 +7,7 @@ def subtract(n, m):
 
 
 def multiply(n, m):
-    pass
+    return n*m
 
 
 def divide(n, m):
