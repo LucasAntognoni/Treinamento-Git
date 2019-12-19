@@ -15,7 +15,10 @@ def factorial(n):
 
 
 def exponential(n):
-    pass
+    """
+    Return the exponential of n to the given base.
+    """
+    return math.exp(n)
 
 
 def logarithm(x, base):
