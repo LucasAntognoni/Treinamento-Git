@@ -1,5 +1,8 @@
+from math import pow
+
+
 def power(n, m):
-    pass
+    return pow(n, m)
 
 
 def root(n):
