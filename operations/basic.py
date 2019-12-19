@@ -6,7 +6,7 @@ def subtract(n, m):
     return n - m
 
 
-def multiply(n, m):Unnamed
+def multiply(n, m):
     pass
 
 
