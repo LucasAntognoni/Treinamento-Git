@@ -1,9 +1,11 @@
+from math import exponential
+
 def factorial(n):
     pass
 
 
 def exponential(n):
-    pass
+    return exponential(n)
 
 
 def logarithm(n, m):
